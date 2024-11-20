@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/385780525.svg)](https://zenodo.org/badge/latestdoi/385780525)
 
 
-All code to reciprocate findings is located in this file location. Code results are also displayed.
+All code to reproduce findings is located in this file location. Code results are also displayed.
 
 
 ---------------
